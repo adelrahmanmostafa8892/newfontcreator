@@ -1,0 +1,33 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="192.45921" viewBox="0 0 500 192.45921">
+  <defs>
+    <linearGradient id="linear-gradient" y1="75" x2="500" y2="75" gradientUnits="userSpaceOnUse">
+      <stop offset="0.00583" stop-color="#01748b"/>
+      <stop offset="0.18392" stop-color="#01798d"/>
+      <stop offset="0.39551" stop-color="#018793"/>
+      <stop offset="0.62414" stop-color="#019f9d"/>
+      <stop offset="0.86324" stop-color="#00c1ab"/>
+      <stop offset="1" stop-color="#00d7b5"/>
+    </linearGradient>
+    <clipPath id="clip-path" transform="translate(0 21.22961)">
+      <polygon points="0 142.1 415.7 142.1 500 7.9 0 7.9 0 142.1" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" y1="77" y2="77" gradientTransform="matrix(1, 0, 0, -1, 0, 173.22961)" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-2" transform="translate(0 21.22961)">
+      <polygon points="0 142.1 415.7 142.1 500 7.9 0 7.9 0 142.1" fill="none"/>
+    </clipPath>
+  </defs>
+  <g>
+    <g>
+      <polygon points="0 163.33 415.7 163.33 500 29.13 0 29.13 0 163.33" fill="url(#linear-gradient)"/>
+      <g clip-path="url(#clip-path)">
+        <polygon points="0 163.33 415.7 163.33 500 29.13 0 29.13 0 163.33" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g clip-path="url(#clip-path-2)">
+      <line x1="333.79999" y1="191.1296" x2="453" y2="1.32961" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+    <g clip-path="url(#clip-path-2)">
+      <line x1="363.5" y1="191.1296" x2="482.60001" y2="1.32961" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

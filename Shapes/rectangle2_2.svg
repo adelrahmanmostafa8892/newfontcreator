@@ -1,0 +1,18 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500.01744" height="192.45463" viewBox="0 0 500.01744 192.45463">
+  <defs>
+    <clipPath id="clip-path" transform="translate(0.01744 21.22817)">
+      <polygon id="SVGID" points="-0.017 142.088 415.75 142.088 500 7.912 -0.017 7.912 -0.017 142.088" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="96.22817" x2="500.01744" y2="96.22817" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a533c1"/>
+      <stop offset="0.10516" stop-color="#ad30b9"/>
+      <stop offset="0.69585" stop-color="#d9228f"/>
+      <stop offset="0.99582" stop-color="#ea1c7f"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <polygon points="0 163.316 415.767 163.316 500.017 29.14 0 29.14 0 163.316" fill="url(#linear-gradient)"/>
+    <line x1="333.82975" y1="191.12522" x2="453.00331" y2="1.32942" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    <line x1="363.48902" y1="191.12522" x2="482.66258" y2="1.32942" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+</svg>

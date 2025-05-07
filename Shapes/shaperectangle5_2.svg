@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135.095" height="131.38504" viewBox="0 0 135.095 131.38504">
+  <defs>
+    <linearGradient id="linear-gradient" x1="97.94092" y1="328.6881" x2="97.94092" y2="312.92448" gradientTransform="translate(0.00008 -202.48813)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff5572"/>
+      <stop offset="1" stop-color="#d11941"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="36.36234" y1="224.04087" x2="150.31389" y2="337.99237" gradientTransform="translate(0 -202.48807)" xlink:href="#linear-gradient"/>
+  </defs>
+  <polygon points="135.095 105.475 63.476 131.385 60.787 93.221 135.095 105.475" fill="url(#linear-gradient)"/>
+  <path d="M-.00008.00009H119.50034a15.5944,15.5944,0,0,1,15.59441,15.59438v89.88107H15.59442A15.59449,15.59449,0,0,1-.00008,89.88109Z" transform="translate(0.00008 -0.00009)" fill="url(#linear-gradient-2)"/>
+</svg>

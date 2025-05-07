@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 150" style="enable-background:new 0 0 500 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_1_);fill:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_1_);fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<defs>
+		<polygon id="SVGID_4_" points="0,142.1 415.7,142.1 500,7.9 0,7.9 		"/>
+	</defs>
+	<clipPath id="SVGID_1_">
+		<use xlink:href="#SVGID_4_"  style="overflow:visible;"/>
+	</clipPath>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-1.744161e-02" y1="75" x2="500" y2="75">
+		<stop  offset="0" style="stop-color:#3A4A92"/>
+		<stop  offset="1" style="stop-color:#B962FC"/>
+	</linearGradient>
+	<polygon class="st0" points="0,142.1 415.7,142.1 500,7.9 0,7.9 	"/>
+	<line class="st1" x1="333.8" y1="169.9" x2="453" y2="-19.9"/>
+	<line class="st1" x1="363.5" y1="169.9" x2="482.6" y2="-19.9"/>
+</g>
+</svg>

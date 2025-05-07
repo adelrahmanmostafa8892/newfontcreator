@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135.09483" height="131.38522" viewBox="0 0 135.09483 131.38522">
+  <defs>
+    <linearGradient id="linear-gradient" x1="97.94076" y1="98.40606" x2="97.94076" y2="114.16968" gradientUnits="userSpaceOnUse">
+      <stop offset="0.00583" stop-color="#01748b"/>
+      <stop offset="0.29748" stop-color="#017990"/>
+      <stop offset="0.64382" stop-color="#01869e"/>
+      <stop offset="1" stop-color="#009bb5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="36.36242" y1="21.55271" x2="150.31395" y2="135.50423" gradientUnits="userSpaceOnUse">
+      <stop offset="0.00583" stop-color="#01748b"/>
+      <stop offset="0.18392" stop-color="#01798d"/>
+      <stop offset="0.39551" stop-color="#018793"/>
+      <stop offset="0.62414" stop-color="#019f9d"/>
+      <stop offset="0.86324" stop-color="#00c1ab"/>
+      <stop offset="1" stop-color="#00d7b5"/>
+    </linearGradient>
+  </defs>
+  <polygon points="135.095 105.475 63.476 131.385 60.787 93.221 135.095 105.475" fill="url(#linear-gradient)"/>
+  <path d="M0,0H119.50043a15.5944,15.5944,0,0,1,15.5944,15.5944v89.88105a0,0,0,0,1,0,0H15.5945A15.5945,15.5945,0,0,1,0,89.881V0A0,0,0,0,1,0,0Z" fill="url(#linear-gradient-2)"/>
+</svg>
