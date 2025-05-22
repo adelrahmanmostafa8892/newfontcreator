@@ -2229,9 +2229,9 @@ async function exportAsPNG() {
 
             const exportBgColor = isIntroPage ? currentPageBgColor : 'transparent';
             const dataUrl = await htmlToImage.toPng(clone, {
-                quality: 1,
+                quality: 2,
                 backgroundColor: exportBgColor,
-                pixelRatio: 4,
+                pixelRatio: 6,
                 style: {
                     transform: 'scale(1)',
                     transformOrigin: 'top left'
